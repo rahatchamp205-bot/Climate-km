@@ -5,6 +5,7 @@ tags:
   - heat
   - dhaka
   - dataset
+  - mirpur
 date: 2026-10-12
 author: Md. Rahat Bin Rafiq
 status: final

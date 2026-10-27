@@ -1,7 +1,11 @@
 ---
 title: Getting started guide for new volunteers
 category: How-To
-tags: [dhaka, dataset, heat]
+tags:
+  - dhaka
+  - dataset
+  - heat
+  - mirpur
 date: 2026-10-16
 author: Md. Rahat Bin Rafiq
 status: final

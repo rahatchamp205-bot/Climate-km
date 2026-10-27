@@ -16,6 +16,7 @@ update this file first and commit the change.
 - #heat – urban heat, temperature
 - #flooding – waterlogging, rainfall, floods
 - #dhaka – anything specific to Dhaka
+- #mirpur – anything specific to the Mirpur study area
 - #interview – interviews or surveys with people
 - #dataset – involves a specific dataset
 - #urgent – needs attention soon
